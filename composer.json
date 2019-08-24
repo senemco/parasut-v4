@@ -1,18 +1,12 @@
 {
-    "name": "senemco/parasut-v4",
+    "name": "netinternet/parasut-v4",
     "description": "Parsaut V4 Api client",
     "type": "library",
     "license": "MIT",
     "authors": [{
-            "name": "Senem CO",
-            "homepage": "https://senem.co",
-            "email": "me@senem.co"
-        },
-        {
-            "name": "Barış Esen",
-            "email": "barisesennn@gmail.com"
-        }
-    ],
+        "name": "Barış Esen",
+        "email": "barisesennn@gmail.com"
+    }],
     "autoload": {
         "psr-4": {
             "Parasut\\": "src"
